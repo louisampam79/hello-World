@@ -1,2 +1,2 @@
 # hello-World
-This is my first scrpt
+This is my first script
